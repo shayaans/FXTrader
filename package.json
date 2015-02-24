@@ -1,0 +1,19 @@
+{
+  "name": "FXTrader",
+  "version": "1.0.0",
+  "description": "A web application to show data about Foreign Currency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shayaans/FXTrader"
+  },
+  "author": "Shayaan Siddiqui",
+  "license": "NONE",
+  "bugs": {
+    "url": "https://github.com/shayaans/FXTrader/issues"
+  },
+  "homepage": "https://github.com/shayaans/FXTrader"
+}
